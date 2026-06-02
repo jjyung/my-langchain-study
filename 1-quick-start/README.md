@@ -8,6 +8,9 @@
 ## 啟動方式
 
 ```bash
+uv init
+uv add langchain deepagents
+
 # 安裝依賴
 uv sync
 
