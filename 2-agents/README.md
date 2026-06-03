@@ -1,4 +1,4 @@
-# Agent
+# Agents
 
 Agent = Model + Harness — the harness delivers the right context at the right time.
 
